@@ -1,0 +1,35 @@
+  marketing_vistor_id=0bb17b47-2042-4cf2-b78c-554d46880f45',
+  segmentCookie=a',
+  auth_ga_trigger=main',
+  _gcl_au=1.1.720631566.1594828612',
+  _fbp=fb.1.1594828612021.623807158',
+  _ga=GA1.2.1437174892.1594828657',
+  _gid=GA1.2.1219342397.1594828657',
+  deviceCookieID=16dff7a5-571f-446c-b5f5-e31698660b67',
+  sid=QA.CAESEBf5zLOzSkAAi4xciftflUYY-Nnb-QUiATEqJDJlYmE5ODYyLWVkYTQtNGU4MS1iYjFlLWQyMDE2N2FlNDc0NDJANBK2zLniYa64g_muVWtpxOtdrHY7xuTVqfx44nIZKy2uYHJuitOH-vhCr0zmGVm8If3a_y2n2I2DFADJntOyiToBMUIIdWJlci5jb20.JxRL--8Hfa_qwk50eqtkUT9XpCsQgB5nXEI17bbE1Gw',
+  utag_main=v_id:017353315c80001cb79b7a5d3c330307300a106b0086e$_sn:3$_ss:0$_st:1594844928697$segment:b$optimizely_segment:a$ses_id:1594843118478%3Bexp-session$_pn:1%3Bexp-session',
+  fsid=3geeeeda-oomh-jupj-vwn1-2srtz15a1534',
+  csid=1.1597435129063.Wi6M+XYuqy4+vZj5dp98aigW2JuKvyQIAVvNyfmQJi8=',
+  _ua={"session_id":"c342de9d-2b71-4404-917c-f22de08eb072","session_time_ms":1594843129073}',
+  user-uuid=2eba9862-eda4-4e81-bb1e-d20167ae4744',
+  jwt-session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InBpZ2d5YmFjayI6bnVsbH0sImlhdCI6MTU5NDg0MzEyOSwiZXhwIjoxNTk0OTI5NTI5fQ.6FPXlQ3y6VlWPcRkR6y0sCuLWGbxZ8HUWol9qf1nT_k'
+
+fsid se repite 3 veces,  aparentemente se usa la de dominio "restaurant-dashboard.uber.com"
+csid se repite 3 veces, aparentemente se usa la de dominio "restaurant-dashboard.uber.com"
+_ua se repite 3 veces, aparentemente se usa la de dominio "restaurant-dashboard.uber.com"
+
+   'marketing_vistor_id=0bb17b47-2042-4cf2-b78c-554d46880f45',
+  ' segmentCookie=a',
+  ' auth_ga_trigger=main',
+  ' _gcl_au=1.1.720631566.1594828612',
+  ' _fbp=fb.1.1594828612021.623807158',
+  ' _ga=GA1.2.1437174892.1594828657',
+  ' _gid=GA1.2.1219342397.1594828657',
+  ' deviceCookieID=16dff7a5-571f-446c-b5f5-e31698660b67',
+  ' sid=QA.CAESEBf5zLOzSkAAi4xciftflUYY-Nnb-QUiATEqJDJlYmE5ODYyLWVkYTQtNGU4MS1iYjFlLWQyMDE2N2FlNDc0NDJANBK2zLniYa64g_muVWtpxOtdrHY7xuTVqfx44nIZKy2uYHJuitOH-vhCr0zmGVm8If3a_y2n2I2DFADJntOyiToBMUIIdWJlci5jb20.JxRL--8Hfa_qwk50eqtkUT9XpCsQgB5nXEI17bbE1Gw',
+  ' utag_main=v_id:017353315c80001cb79b7a5d3c330307300a106b0086e$_sn:3$_ss:0$_st:1594844928697$segment:b$optimizely_segment:a$ses_id:1594843118478%3Bexp-session$_pn:1%3Bexp-session',
+  ' fsid=3geeeeda-oomh-jupj-vwn1-2srtz15a1534',
+  ' csid=1.1597435129063.Wi6M+XYuqy4+vZj5dp98aigW2JuKvyQIAVvNyfmQJi8=',
+  ' _ua={"session_id":"c342de9d-2b71-4404-917c-f22de08eb072","session_time_ms":1594843129073}',
+  ' user-uuid=2eba9862-eda4-4e81-bb1e-d20167ae4744',
+  ' jwt-session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InBpZ2d5YmFjayI6bnVsbH0sImlhdCI6MTU5NDg0MzEyOSwiZXhwIjoxNTk0OTI5NTI5fQ.6FPXlQ3y6VlWPcRkR6y0sCuLWGbxZ8HUWol9qf1nT_k

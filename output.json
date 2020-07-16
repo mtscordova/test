@@ -1,0 +1,14 @@
+{
+    "x-uber-device-language": "en-US",
+    "x-uber-origin": "restaurant-dashboard",
+    "accept-language": "en-US,en;q=0.9",
+    "longitude": "-72.6304124",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.0 Safari/537.36",
+    "x-uber-source": "restaurant-dashboard",
+    "x-uber-device": "web",
+    "x-auth-params-uuid": "2eba9862-eda4-4e81-bb1e-d20167ae4744",
+    "x-uber-client-version": "30.6.10003",
+    "referer": "https://restaurant-dashboard.uber.com/dashboard_v2/orders/new?_csid=AUjww-G3uFjqpvJBixCzGw&state=btR8pkHnr70cwTU33p0kgTxfZS86nLSREd7eKFAyPd8%3D",
+    "x-uber-breeze-rtapi-token": "web-token",
+    "latitude": "-38.7253041"
+}
